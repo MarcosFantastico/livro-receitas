@@ -1,4 +1,4 @@
-#Strogonoff de Frango :chicken:
+# Strogonoff de Frango :chicken:
 **Negrito**
 _itálico_
  - 1 quilo de peito de frango
